@@ -1,0 +1,16 @@
+*.csv
+*.dat
+*.pkl
+*.zip
+*.hd5
+*.rar
+*.hds
+*.rds
+*.jpg
+*.png
+*.tiff
+*.tif
+*.jpeg
+06_ConvNets/logs
+06_ConvNets/logs1
+data/
